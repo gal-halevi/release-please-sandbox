@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/gal-halevi/release-please-sandbox/compare/v1.0.0...v1.1.0) (2024-12-11)
+
+
+### Features
+
+* add ([b1d04a1](https://github.com/gal-halevi/release-please-sandbox/commit/b1d04a1811ce7942977704be34a178b546ad93dc))
+
+
+### Bug Fixes
+
+* remove two lines ([daffe4f](https://github.com/gal-halevi/release-please-sandbox/commit/daffe4f8aecef90b8eae0d335f00dc21b9ddfee6))
+
 ## 1.0.0 (2024-12-11)
 
 
