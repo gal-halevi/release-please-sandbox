@@ -1,7 +1,7 @@
 import os
 
 
-print(os.getcwd())
+print(os.getcwd()) 
 print("whats")
 print("what")
 print(os.getcwd())
