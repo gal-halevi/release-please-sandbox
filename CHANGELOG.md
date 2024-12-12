@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/gal-halevi/release-please-sandbox/compare/v1.2.0...v1.3.0) (2024-12-12)
+
+
+### Features
+
+* as ([0d3c29c](https://github.com/gal-halevi/release-please-sandbox/commit/0d3c29c5729bf9269862169d766959685e7b979c))
+
 ## [1.2.0](https://github.com/gal-halevi/release-please-sandbox/compare/v1.1.0...v1.2.0) (2024-12-12)
 
 
